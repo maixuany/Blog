@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maixuany/nodejs_F8.git"
+  },
+  "keywords": [
+    "F8_Blog_NodeJS"
+  ],
+  "author": "maiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maixuany/nodejs_F8/issues"
+  },
+  "homepage": "https://github.com/maixuany/nodejs_F8#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
